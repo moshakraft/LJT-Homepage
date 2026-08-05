@@ -1,1 +1,161 @@
-"{\n  \"basics\": {\n    \"name\": \"Junteng Liu\",\n    \"email\": \"jliugi@connect.ust.hk\",\n    \"phone\": \"\",\n    \"website\": \"\",\n    \"summary\": \"First-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, working on natural language processing and machine learning.\",\n    \"location\": {\n      \"address\": \"\",\n      \"postalCode\": \"\",\n      \"city\": \"Hong Kong\",\n      \"countryCode\": \"HK\",\n      \"region\": \"\"\n    },\n    \"profiles\": [\n      {\n        \"network\": \"Google Scholar\",\n        \"username\": \"\",\n        \"url\": \"https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAAJ&view_op=list_works&sortby=pubdate\"\n      },\n      {\n        \"network\": \"GitHub\",\n        \"username\": \"Vicent0205\",\n        \"url\": \"https://github.com/Vicent0205\"\n      },\n      {\n        \"network\": \"X (Twitter)\",\n        \"username\": \"junteng88716710\",\n        \"url\": \"https://twitter.com/junteng88716710\"\n      }\n    ]\n  },\n  \"work\": [\n    {\n      \"institution\": \"MINIMAX\",\n      \"position\": \"Research Intern\",\n      \"startDate\": \"2025-02\",\n      \"endDate\": \"\",\n      \"summary\": \"Research Intern.\",\n      \"highlights\": []\n    },\n    {\n      \"institution\": \"Tencent WXG\",\n      \"position\": \"Research Intern\",\n      \"startDate\": \"2024-06\",\n      \"endDate\": \"2024-09\",\n      \"summary\": \"Research Intern, advised by Zifei Shan.\",\n      \"highlights\": []\n    },\n    {\n      \"institution\": \"Shanghai AI Lab\",\n      \"position\": \"Research Intern\",\n      \"startDate\": \"2023-06\",\n      \"endDate\": \"2023-12\",\n      \"summary\": \"Research Intern, advised by Prof. Yu Cheng.\",\n      \"highlights\": []\n    }\n  ],\n  \"education\": [\n    {\n      \"institution\": \"Hong Kong University of Science and Technology\",\n      \"area\": \"Computer Science\",\n      \"studyType\": \"Ph.D.\",\n      \"startDate\": \"2024\",\n      \"endDate\": \"\",\n      \"gpa\": null,\n      \"courses\": []\n    },\n    {\n      \"institution\": \"Shanghai Jiao Tong University\",\n      \"area\": \"\",\n      \"studyType\": \"B.Eng.\",\n      \"startDate\": \"2020\",\n      \"endDate\": \"2024\",\n      \"gpa\": null,\n      \"courses\": []\n    }\n  ],\n  \"skills\": [\n    {\n      \"name\": \"Natural Language Processing\",\n      \"level\": \"\",\n      \"keywords\": []\n    },\n    {\n      \"name\": \"Machine Learning\",\n      \"level\": \"\",\n      \"keywords\": []\n    },\n    {\n      \"name\": \"LLM Reasoning and Reinforcement Learning\",\n      \"level\": \"\",\n      \"keywords\": []\n    },\n    {\n      \"name\": \"Hallucination in Vision-Language Models (VLM)\",\n      \"level\": \"\",\n      \"keywords\": []\n    },\n    {\n      \"name\": \"LLM Truthfulness and Interpretability\",\n      \"level\": \"\",\n      \"keywords\": []\n    }\n  ],\n  \"languages\": [],\n  \"interests\": [],\n  \"references\": [],\n  \"publications\": [\n    {\n      \"name\": \"SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond\",\n      \"publisher\": \"arXiv\",\n      \"releaseDate\": \"2025\",\n      \"website\": \"\",\n      \"summary\": \"First-author paper, 2025.\"\n    },\n    {\n      \"name\": \"On the Perception Bottleneck of VLMs for Chart Understanding\",\n      \"publisher\": \"arXiv\",\n      \"releaseDate\": \"2025\",\n      \"website\": \"\",\n      \"summary\": \"First-author paper, 2025.\"\n    },\n    {\n      \"name\": \"On the Universal Truthfulness Hyperplane Inside LLMs\",\n      \"publisher\": \"EMNLP 2024\",\n      \"releaseDate\": \"2024\",\n      \"website\": \"\",\n      \"summary\": \"First-author paper, 2024.\"\n    },\n    {\n      \"name\": \"In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation\",\n      \"publisher\": \"ICML 2024\",\n      \"releaseDate\": \"2024\",\n      \"website\": \"\",\n      \"summary\": \"Co-authored paper, 2024.\"\n    },\n    {\n      \"name\": \"C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models\",\n      \"publisher\": \"NeurIPS 2023\",\n      \"releaseDate\": \"2023\",\n      \"website\": \"\",\n      \"summary\": \"Co-authored paper, 2023.\"\n    },\n    {\n      \"name\": \"Composing Parameter-Efficient Modules with Arithmetic Operations\",\n      \"publisher\": \"NeurIPS 2023\",\n      \"releaseDate\": \"2023\",\n      \"website\": \"\",\n      \"summary\": \"Co-authored paper, 2023.\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"title\": \"Zhiyuan Honor Scholarship\",\n      \"date\": \"\",\n      \"awarder\": \"Shanghai Jiao Tong University\",\n      \"summary\": \"\"\n    }\n  ]\n}\n"
+{
+  "basics": {
+    "name": "Junteng Liu",
+    "email": "jliugi@connect.ust.hk",
+    "phone": "",
+    "website": "",
+    "summary": "First-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, working on natural language processing and machine learning.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hong Kong",
+      "countryCode": "HK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAAJ&view_op=list_works&sortby=pubdate"
+      },
+      {
+        "network": "GitHub",
+        "username": "Vicent0205",
+        "url": "https://github.com/Vicent0205"
+      },
+      {
+        "network": "X (Twitter)",
+        "username": "junteng88716710",
+        "url": "https://twitter.com/junteng88716710"
+      }
+    ]
+  },
+  "work": [
+    {
+      "institution": "MINIMAX",
+      "position": "Research Intern",
+      "startDate": "2025-02",
+      "endDate": "",
+      "summary": "Research Intern.",
+      "highlights": []
+    },
+    {
+      "institution": "Tencent WXG",
+      "position": "Research Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-09",
+      "summary": "Research Intern, advised by Zifei Shan.",
+      "highlights": []
+    },
+    {
+      "institution": "Shanghai AI Lab",
+      "position": "Research Intern",
+      "startDate": "2023-06",
+      "endDate": "2023-12",
+      "summary": "Research Intern, advised by Prof. Yu Cheng.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hong Kong University of Science and Technology",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2024",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Shanghai Jiao Tong University",
+      "area": "",
+      "studyType": "B.Eng.",
+      "startDate": "2020",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Natural Language Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LLM Reasoning and Reinforcement Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hallucination in Vision-Language Models (VLM)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LLM Truthfulness and Interpretability",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
+      "publisher": "arXiv",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "First-author paper, 2025."
+    },
+    {
+      "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
+      "publisher": "arXiv",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "First-author paper, 2025."
+    },
+    {
+      "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
+      "publisher": "EMNLP 2024",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "First-author paper, 2024."
+    },
+    {
+      "name": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
+      "publisher": "ICML 2024",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Co-authored paper, 2024."
+    },
+    {
+      "name": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+      "publisher": "NeurIPS 2023",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "Co-authored paper, 2023."
+    },
+    {
+      "name": "Composing Parameter-Efficient Modules with Arithmetic Operations",
+      "publisher": "NeurIPS 2023",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "Co-authored paper, 2023."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Zhiyuan Honor Scholarship",
+      "date": "",
+      "awarder": "Shanghai Jiao Tong University",
+      "summary": ""
+    }
+  ]
+}
