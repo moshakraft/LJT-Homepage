@@ -161,6 +161,7 @@ exclude:
   - markdown_generator
   - scripts
   - talkmap
+  - _pages/talkmap.html
   - talkmap.py
   - talkmap.ipynb
   - talkmap_out.ipynb
