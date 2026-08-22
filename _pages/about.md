@@ -15,7 +15,7 @@ Research interests
 * Hallucination in Vision-Language Models (VLM)
 * LLM truthfulness and Interpretability
 
-Education
+Academic background
 ======
 * Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 - Present
   * HKUST NLP Group, advised by Prof. Junxian He
